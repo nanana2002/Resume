@@ -1,55 +1,50 @@
-# Academic Profile666
+# Academic Profile
+
+## Education
+- **Master's Degree** | Computer Science (2024.04 - Present)  
+  University of Tsukuba, Japan  
+  Laboratory: SoftLab (www.softlab.cs.tsukuba.ac.jp)
+
+- **Bachelor's Degree** | Applied Physics (2019.08 - 2023.06)  
+  Jilin University, China
 
 ## Research Interests
-- Computer Visionewifpesawiofhnrwiofn   dpovmldv    
-- Deep Learningefle;v;rw
-- Natural Language Processing
-- Human-Computer Interaction
+- Distributed Systems
+- Web Technologies
+- Distributed Computing
+- System Architecture
 
 ## Publications
 
 ### Conference Papers
-1. **Title of Your Paper** (2023)  
-   Authors: Li Yao, Other Author  
-   *Conference Name 2023*  
-   [PDF] [Code] [Project Page]
+1. **Towards Building Computing Clusters of Web Browsers** (2024)  
+   *COMSYS - 2024*  
+   [In Progress]
 
-2. **Another Great Paper** (2022)  
-   Authors: Other Author, Li Yao  
-   *Another Conference 2022*  
-   [PDF] [Code] [Project Page]
+## Current Research
+### Distributed Web Browser Systems
+- Research Direction: Distributed Web Browser
+- Focus Areas:
+  - Computing cluster architecture
+  - Browser-based distributed systems
+  - Web-based resource allocation
 
-### Journal Articles
-1. **Your Journal Paper** (2023)  
-   Authors: Li Yao, et al.  
-   *Journal Name, Vol. X, No. Y*  
-   [PDF] [Supplementary]
+## Technical Expertise
+- **Programming Languages**: Python, C/C++, Rust
+- **Systems**: Linux, Distributed Systems
+- **Language Proficiency**: 
+  - English: TOEIC (865/990)
+  - Japanese: Research Level
+  - Chinese: Native
 
-## Academic Projects
+## Academic Awards
+- National College Student Mathematical Modeling Competition, Provincial Second Prize (2022)
+- National College Student Electronic Design Competition (2021)
+- Bronze Award in College Student Innovation Competition (2021)
 
-### Project Name (2022-2023)
-- Description of the project and your contributions
-- Technologies used: Python, PyTorch, etc.
-- [GitHub Repository] [Demo]
-
-### Another Project (2021-2022)
-- Brief description of what you accomplished
-- Key achievements and results
-- [Project Link]
-
-## Awards & Honors
-- Best Paper Award, Conference Name 2023
-- Outstanding Graduate Student Award 2022
-- Research Excellence Fellowship 2021
-
-## Academic Service
-- Reviewer for Conference X 2023
-- Student Volunteer at Conference Y 2022
-
-## Collaborations
-- University X - Research on Topic Y
-- Company Z - Research Internship
+## Professional Affiliations
+- Member, SoftLab Research Group, University of Tsukuba
+- Student Member, COMSYS Research Community
 
 ---
-*Last updated: January 2024*
-
+*Last updated: November 2024*
