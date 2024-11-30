@@ -1,3 +1,2 @@
-#### Master's Student at **Softlab, University of Tsukuba**; Research Assistant at **CUHK**, working on Blockchain and NFT research  
-##### **👀Main Research Fields:** Virtualization Technology, WebAssembly  
-##### **✨Other Interests:** Blockchain, AI Applications, Game Development
+#### Master's Student at **Softlab, University of Tsukuba**; Research Assistant at **CUHK** | **👀 Main Research Fields:** Virtualization Technology, WebAssembly | **📚 RA Focus:** Blockchain and NFT Research | **✨ Other Interests:** AI Applications, Game Development  
+
