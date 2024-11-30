@@ -17,10 +17,6 @@
   Shanghai  
   - Focus: Industrial control system development
   
-- **Research Student** (2023.12 - 2024.03)  
-  SoftLab, University of Tsukuba  
-  - Research focus: Distributed computing systems
-
 - **Research Assistant** (2024.09 - Present)  
   The Chinese University of Hong Kong  
   - Research focus: Smart contract design for trading systems
