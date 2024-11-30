@@ -61,3 +61,6 @@
 - Member, SoftLab Research Group, University of Tsukuba
 - Student Member, COMSYS Research Community
 - Research Assistant, CUHK
+
+---
+*Last updated: November 2024*
