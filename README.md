@@ -1,3 +1,24 @@
+# Hi, I'm Li Yao
 
+👀 **Main Research Fields**  
+- Virtualization Technology  
+- WebAssembly  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BH3GEI&count_private=true&hide=contribs,prs,issues)
+✨ **Other Interests**  
+- Blockchain  
+- Game Development  
+- AI Applications  
+
+🌱 **Current Status**  
+- Master's Student at **Softlab**, University of Tsukuba  
+- Research Assistant at **CUHK**, working on Blockchain and NFT research  
+
+💞️ **Collaboration**  
+Eager to collaborate on exciting projects within these domains.  
+
+📫 **Contact**  
+- Email: [liyao@mail.softlab.cs.tsukuba.ac.jp](mailto:liyao@mail.softlab.cs.tsukuba.ac.jp)  
+- Email: [scholar.liyao@gmail.com](mailto:scholar.liyao@gmail.com)  
+
+📍 **Location**  
+Based in Tokyo.  
