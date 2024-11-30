@@ -1,8 +1,8 @@
 # Academic Profile666
 
 ## Research Interests
-- Computer Vision
-- Deep Learning
+- Computer Visionewifpesawiofhnrwiofn   dpovmldv    
+- Deep Learningefle;v;rw
 - Natural Language Processing
 - Human-Computer Interaction
 
