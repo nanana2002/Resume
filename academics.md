@@ -9,27 +9,23 @@
 - **Bachelor's Degree** | Applied Physics (2019.08 - 2023.06)  
   Jilin University, China
 
-## Other Experiences
+## Research & Professional Experience
 
-
-    
-- **Software Development Engineer** (2023.06 - 2024.04)  
-  Shanghai  
-  - Focus: Industrial control system development
-  
 - **Research Assistant** (2024.09 - Present)  
   The Chinese University of Hong Kong  
   - Research focus: Smart contract design for trading systems
   - Project: Blockchain-based auction systems
- 
-    
+
+- **Software Development Engineer** (2023.06 - 2024.04)  
+  Shanghai BOCHU Electronic Technology Company Limited  
+  - Focus: Industrial control system development
+
 ## Research Areas
 - Distributed Computing Systems
 - Browser-based Computing
 - Resource Management and Allocation
 - Edge Computing and Web Technologies
 - Smart Contracts for Trading Systems
-
 
 ## Publications
 
